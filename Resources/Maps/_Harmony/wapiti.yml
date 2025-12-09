@@ -61,11 +61,11 @@ entities:
     - type: Broadphase
     - type: OccluderTree
     - type: Parallax
-      parallax: ElkridgeStation
+      parallax: Wapiti
   - uid: 2
     components:
     - type: MetaData
-      name: Elkridge
+      name: Wapiti
     - type: Transform
       pos: -0.5521345,-0.41666603
       parent: 1
