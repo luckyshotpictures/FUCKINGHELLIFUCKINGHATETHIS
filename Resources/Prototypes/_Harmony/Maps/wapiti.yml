@@ -2,10 +2,10 @@
   id: Wapiti
   mapName: 'Wapiti'
   mapPath: /Maps/_Harmony/wapiti.yml
-  minPlayers: 20
+  minPlayers: 30
   maxPlayers: 60
   stations:
-    Elkridge:
+    Wapiti:
       stationProto: StandardNanotrasenStation
       components:
       - type: StationNameSetup
